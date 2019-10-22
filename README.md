@@ -50,5 +50,5 @@ pytest unitest.py -v
 
 ## Authors
 
-* **Tommy Myrvik** - (https://github.com/tommymy)
+* **Tommy Myrvik** - (https://github.com/Myrvixen)
 * **Kristian Tuv** - (https://github.com/kristtuv)
